@@ -1,0 +1,36 @@
+[
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\cpp-minimal-examples\\C-project-without-tests",
+  "arguments": [
+   "g++",
+   "-Wall",
+   "-Wextra",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-Isrc",
+   "-c",
+   "src/integers.cpp",
+   "-o",
+   "build/integers.o"
+  ],
+  "file": "src/integers.cpp"
+ },
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\cpp-minimal-examples\\C-project-without-tests",
+  "arguments": [
+   "g++",
+   "-Wall",
+   "-Wextra",
+   "-std=c++17",
+   "-MMD",
+   "-MP",
+   "-Isrc",
+   "-c",
+   "src/main.cpp",
+   "-o",
+   "build/main.o"
+  ],
+  "file": "src/main.cpp"
+ }
+]

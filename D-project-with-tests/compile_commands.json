@@ -1,0 +1,34 @@
+[
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\cpp-minimal-examples\\D-project-with-tests",
+  "arguments": [
+   "g++",
+   "-Wall",
+   "-Wextra",
+   "-std=c++17",
+   "-Isrc",
+   "-Iinclude",
+   "-c",
+   "src/integers.cpp",
+   "-o",
+   "build/integers.o"
+  ],
+  "file": "src/integers.cpp"
+ },
+ {
+  "directory": "c:\\Users\\nicol\\Dropbox\\local-repos\\cpp-minimal-examples\\D-project-with-tests",
+  "arguments": [
+   "g++",
+   "-Wall",
+   "-Wextra",
+   "-std=c++17",
+   "-Isrc",
+   "-Iinclude",
+   "-c",
+   "src/main.cpp",
+   "-o",
+   "build/main.o"
+  ],
+  "file": "src/main.cpp"
+ }
+]
